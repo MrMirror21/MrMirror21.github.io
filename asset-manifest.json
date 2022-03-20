@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.99f52649.chunk.css",
-    "main.js": "/static/js/main.4ebe0598.chunk.js",
-    "main.js.map": "/static/js/main.4ebe0598.chunk.js.map",
+    "main.js": "/static/js/main.19e50557.chunk.js",
+    "main.js.map": "/static/js/main.19e50557.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.efc0155c.js",
     "runtime-main.js.map": "/static/js/runtime-main.efc0155c.js.map",
-    "static/js/2.55479c55.chunk.js": "/static/js/2.55479c55.chunk.js",
-    "static/js/2.55479c55.chunk.js.map": "/static/js/2.55479c55.chunk.js.map",
+    "static/js/2.6ed8994c.chunk.js": "/static/js/2.6ed8994c.chunk.js",
+    "static/js/2.6ed8994c.chunk.js.map": "/static/js/2.6ed8994c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.99f52649.chunk.css.map": "/static/css/main.99f52649.chunk.css.map",
-    "static/js/2.55479c55.chunk.js.LICENSE.txt": "/static/js/2.55479c55.chunk.js.LICENSE.txt",
+    "static/js/2.6ed8994c.chunk.js.LICENSE.txt": "/static/js/2.6ed8994c.chunk.js.LICENSE.txt",
     "static/media/WalkleLogo.86b842d2.svg": "/static/media/WalkleLogo.86b842d2.svg",
     "static/media/bookmark.06a314fc.svg": "/static/media/bookmark.06a314fc.svg",
     "static/media/check.617a2813.svg": "/static/media/check.617a2813.svg",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.efc0155c.js",
-    "static/js/2.55479c55.chunk.js",
+    "static/js/2.6ed8994c.chunk.js",
     "static/css/main.99f52649.chunk.css",
-    "static/js/main.4ebe0598.chunk.js"
+    "static/js/main.19e50557.chunk.js"
   ]
 }
